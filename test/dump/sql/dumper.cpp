@@ -1,5 +1,5 @@
 #include "dump/sql/dumper.hpp"
-#include "test/test.hpp"
+#include "test.hpp"
 
 namespace dump { namespace sql {
 
